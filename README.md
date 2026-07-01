@@ -215,9 +215,6 @@ This project demonstrates how to:
 
 Full Stack JavaScript Developer
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
-
 ---
 
 # 📄 License
